@@ -1,10 +1,10 @@
 This project conducts exploratory data analysis and cleaning on a healthcare dataset. Key steps:
 
-Data inspection: shape, null values, distributions
-Imputing missing data
-Encoding categorical features
-Outlier detection and removal
-Scaling numerical features
+Data inspection: shape, null values, distributions, 
+Imputing missing data, 
+Encoding categorical features, 
+Outlier detection and removal, 
+Scaling numerical features, 
 Basic feature engineering and transformations
 Some sample supervised learning tasks are shown like feature importance analysis and linear regression.
 
